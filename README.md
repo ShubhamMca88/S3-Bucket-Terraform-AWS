@@ -2,6 +2,10 @@
 
 This project demonstrates how to create and manage an S3 bucket using Terraform. The S3 bucket will be configured to host a static website.
 
+
+![Terraform](https://img.shields.io/badge/Terraform-blue.svg)
+![AWS](https://img.shields.io/badge/AWS-S3-orange.svg)
+
 ## Prerequisites
 
 - [Terraform](https://www.terraform.io/downloads.html) installed on your local machine
@@ -13,7 +17,7 @@ This project demonstrates how to create and manage an S3 bucket using Terraform.
 
     ```sh
     git clone https://github.com/ShubhamMca88/S3-Bucket-Terraform-AWS.git
-    
+
     cd S3-Bucket-Terraform
     ```
 
