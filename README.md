@@ -12,7 +12,8 @@ This project demonstrates how to create and manage an S3 bucket using Terraform.
 1. **Clone the repository:**
 
     ```sh
-    git clone <repository-url>
+    git clone https://github.com/ShubhamMca88/S3-Bucket-Terraform-AWS.git
+    
     cd S3-Bucket-Terraform
     ```
 
